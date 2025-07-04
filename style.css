@@ -1,0 +1,17 @@
+div{
+    background-color: tomato;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow:2px 2px 4px;
+}
+span{background-color:orange;
+    border-radius:4px;
+    padding:3px;
+    box-shadow:2px 2px blueviolet;
+    font-weight: bolder;
+    color: rgba(59, 54, 54, 0.956);
+    
+}
+
+.center{text-align:center;}
